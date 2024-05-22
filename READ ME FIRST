@@ -7,6 +7,4 @@ Free Imaginary Map + Imaginary GPS ( Use M while using a Keyboard )
 No Base/Container Damage & Build Anywhere!
 To have everything in effect,
 make sure that you have ticked the box Enable cfggameplay.json, in the General Settings of your server's Web Interface.
-
-Copy & Paste it in the cfggameplay.json
-or Download as ZIP and upload it to the dayzOffline.chernarusplus folder.
+If not, the server does not use the .json, but use Vanilla settings.
